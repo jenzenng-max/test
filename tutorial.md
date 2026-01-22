@@ -1,8 +1,8 @@
-# 🏮 敲击感应小灯 (NeoPixel 2026)111
+# 🏮 敲击感应小灯 (NeoPixel 2026)1112
 
 ## 你的目标 @unplugged
 敲一下，就变亮，再敲一下就灭了！
-![An demo](/static/tutorials/neopixel2026_demo.gif)
+![An demo](/static/neopixel2026_demo.gif)
 加上自己的创意，动手做个类似趣味小灯吧！
 
 ## {step 2}
